@@ -70,7 +70,7 @@ https://leanpub.com/D3-Tips-and-Tricks/read (Links to an external site.)
 ### Folders
 Each folder has an explanatory `README.md` file.
 
-* `data` holds the data file for the visualization, `texas.json`.
+* `data` will hold the data file for the visualization.
 
 * `favicons` contains the favicons for the web page. You shouldn't change anything here.
 
@@ -98,7 +98,7 @@ Make your edits and commit major versions to your git repository.
 
 ## Submission Instructions
 
-1. Submit a URL to your GitHub Page (same as the link you edited at the top) to [the associated assignment on Canvas](https://canvas.instructure.com/courses/1781732/assignments/13383358).
+1. Submit a URL to your GitHub repository (same as the link you edited at the top) to [the associated assignment on Canvas](https://canvas.instructure.com/courses/1781732/assignments/13383358).
 
 ### Function/method chaining
 
@@ -134,4 +134,3 @@ E.g., instead of writing `function(d){ return d.name; }` we write `d => d.name` 
   - Ensure all visualization and prose required above is present in your webpage.
   - Submit the page on Canvas.
   - Make sure to include the data in your repository.
-
