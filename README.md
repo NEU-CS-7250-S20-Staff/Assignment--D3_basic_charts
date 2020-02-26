@@ -32,10 +32,10 @@ In this assignment you will create a bar chart and a line chart in D3.
 ## Resources:
 
 *NOTE: there are different versions of d3, so make sure that the tutorials that you are using are up to date.*   
-https://d3js.org (Links to an external site.)   
-https://github.com/d3/d3/wiki/Gallery (Links to an external site.)   
-https://github.com/d3/d3/wiki/Tutorials (Links to an external site.)   
-https://leanpub.com/D3-Tips-and-Tricks/read (Links to an external site.)     
+https://d3js.org
+https://github.com/d3/d3/wiki/Gallery
+https://github.com/d3/d3/wiki/Tutorials
+https://leanpub.com/D3-Tips-and-Tricks/read
 
 ## Setup
 
